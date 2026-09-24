@@ -1,0 +1,45 @@
+Dataset,Column,Data_Type,Total_Rows,Missing_Count,Missing_Percentage,Unique_Values,Duplicate_Rows_In_Dataset
+Coverage,GROUP,str,399859,0,0.0,9,0
+Coverage,CODE,str,399859,1,0.0,245,0
+Coverage,NAME,str,399859,1275,0.32,242,0
+Coverage,YEAR,float64,399859,1,0.0,44,0
+Coverage,ANTIGEN,str,399859,1,0.0,69,0
+Coverage,ANTIGEN_DESCRIPTION,str,399859,1,0.0,69,0
+Coverage,COVERAGE_CATEGORY,str,399859,1,0.0,5,0
+Coverage,COVERAGE_CATEGORY_DESCRIPTION,str,399859,1,0.0,5,0
+Coverage,TARGET_NUMBER,float64,399859,320829,80.24,24395,0
+Coverage,DOSES,float64,399859,320532,80.16,53792,0
+Coverage,COVERAGE,float64,399859,169382,42.36,7602,0
+Incidence Rate,GROUP,str,84946,0,0.0,4,0
+Incidence Rate,CODE,str,84946,1,0.0,221,0
+Incidence Rate,NAME,str,84946,1,0.0,221,0
+Incidence Rate,YEAR,float64,84946,1,0.0,44,0
+Incidence Rate,DISEASE,str,84946,1,0.0,13,0
+Incidence Rate,DISEASE_DESCRIPTION,str,84946,1,0.0,13,0
+Incidence Rate,DENOMINATOR,str,84946,1,0.0,5,0
+Incidence Rate,INCIDENCE_RATE,float64,84946,23362,27.5,4977,0
+Reported Cases,GROUP,str,84870,0,0.0,4,0
+Reported Cases,CODE,str,84870,1,0.0,221,0
+Reported Cases,NAME,str,84870,1,0.0,221,0
+Reported Cases,YEAR,float64,84870,1,0.0,44,0
+Reported Cases,DISEASE,str,84870,1,0.0,13,0
+Reported Cases,DISEASE_DESCRIPTION,str,84870,1,0.0,13,0
+Reported Cases,CASES,float64,84870,19400,22.86,6634,0
+Vaccine Introduction,ISO_3_CODE,str,138321,0,0.0,195,0
+Vaccine Introduction,COUNTRYNAME,str,138321,1,0.0,194,0
+Vaccine Introduction,WHO_REGION,str,138321,1,0.0,6,0
+Vaccine Introduction,YEAR,float64,138321,1,0.0,84,0
+Vaccine Introduction,DESCRIPTION,str,138321,1,0.0,21,0
+Vaccine Introduction,INTRO,str,138321,1,0.0,9,0
+Vaccine Schedule,ISO_3_CODE,str,8053,0,0.0,214,0
+Vaccine Schedule,COUNTRYNAME,str,8053,1,0.01,213,0
+Vaccine Schedule,WHO_REGION,str,8053,1,0.01,6,0
+Vaccine Schedule,YEAR,float64,8053,1,0.01,4,0
+Vaccine Schedule,VACCINECODE,str,8053,1,0.01,86,0
+Vaccine Schedule,VACCINE_DESCRIPTION,str,8053,1,0.01,86,0
+Vaccine Schedule,SCHEDULEROUNDS,float64,8053,1,0.01,7,0
+Vaccine Schedule,TARGETPOP,str,8053,4258,52.87,15,0
+Vaccine Schedule,TARGETPOP_DESCRIPTION,str,8053,1,0.01,10,0
+Vaccine Schedule,GEOAREA,str,8053,31,0.38,2,0
+Vaccine Schedule,AGEADMINISTERED,str,8053,1046,12.99,425,0
+Vaccine Schedule,SOURCECOMMENT,str,8053,2914,36.19,1433,0

@@ -1,0 +1,37 @@
+Dataset,Validation_Check,Status,Details
+Coverage,File Exists,PASS,Dataset file found.
+Coverage,Duplicate Rows,PASS,No duplicate rows found.
+Coverage,Missing Values,REVIEW,"812,024 missing cells (18.46%)."
+Coverage,Year Validation,REVIEW,Invalid/missing years: 1; out-of-range years: 0.
+Coverage,Coverage Range,REVIEW,"5,097 coverage values outside 0-100."
+Coverage,Negative Values,REVIEW,8 negative numeric values found.
+Coverage,Empty Columns,PASS,No completely empty columns.
+Coverage,Constant Columns,PASS,No constant columns found.
+Incidence Rate,File Exists,PASS,Dataset file found.
+Incidence Rate,Duplicate Rows,PASS,No duplicate rows found.
+Incidence Rate,Missing Values,WARNING,"23,368 missing cells (3.44%)."
+Incidence Rate,Year Validation,REVIEW,Invalid/missing years: 1; out-of-range years: 0.
+Incidence Rate,Negative Values,PASS,No negative numeric values found.
+Incidence Rate,Empty Columns,PASS,No completely empty columns.
+Incidence Rate,Constant Columns,PASS,No constant columns found.
+Reported Cases,File Exists,PASS,Dataset file found.
+Reported Cases,Duplicate Rows,PASS,No duplicate rows found.
+Reported Cases,Missing Values,WARNING,"19,405 missing cells (3.27%)."
+Reported Cases,Year Validation,REVIEW,Invalid/missing years: 1; out-of-range years: 0.
+Reported Cases,Negative Values,PASS,No negative numeric values found.
+Reported Cases,Empty Columns,PASS,No completely empty columns.
+Reported Cases,Constant Columns,PASS,No constant columns found.
+Vaccine Introduction,File Exists,PASS,Dataset file found.
+Vaccine Introduction,Duplicate Rows,PASS,No duplicate rows found.
+Vaccine Introduction,Missing Values,WARNING,5 missing cells (0.00%).
+Vaccine Introduction,Year Validation,REVIEW,Invalid/missing years: 1; out-of-range years: 0.
+Vaccine Introduction,Negative Values,PASS,No negative numeric values found.
+Vaccine Introduction,Empty Columns,PASS,No completely empty columns.
+Vaccine Introduction,Constant Columns,PASS,No constant columns found.
+Vaccine Schedule,File Exists,PASS,Dataset file found.
+Vaccine Schedule,Duplicate Rows,PASS,No duplicate rows found.
+Vaccine Schedule,Missing Values,REVIEW,"8,256 missing cells (8.54%)."
+Vaccine Schedule,Year Validation,REVIEW,Invalid/missing years: 1; out-of-range years: 0.
+Vaccine Schedule,Negative Values,PASS,No negative numeric values found.
+Vaccine Schedule,Empty Columns,PASS,No completely empty columns.
+Vaccine Schedule,Constant Columns,PASS,No constant columns found.

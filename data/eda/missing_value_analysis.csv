@@ -1,0 +1,45 @@
+Dataset,Column,Missing_Count,Missing_Percentage
+Coverage,GROUP,0,0.0
+Coverage,CODE,0,0.0
+Coverage,NAME,1274,0.32
+Coverage,YEAR,0,0.0
+Coverage,ANTIGEN,0,0.0
+Coverage,ANTIGEN_DESCRIPTION,0,0.0
+Coverage,COVERAGE_CATEGORY,0,0.0
+Coverage,COVERAGE_CATEGORY_DESCRIPTION,0,0.0
+Coverage,TARGET_NUMBER,320828,80.24
+Coverage,DOSES,320539,80.16
+Coverage,COVERAGE,174478,43.63
+Incidence Rate,GROUP,0,0.0
+Incidence Rate,CODE,0,0.0
+Incidence Rate,NAME,0,0.0
+Incidence Rate,YEAR,0,0.0
+Incidence Rate,DISEASE,0,0.0
+Incidence Rate,DISEASE_DESCRIPTION,0,0.0
+Incidence Rate,DENOMINATOR,84945,100.0
+Incidence Rate,INCIDENCE_RATE,23361,27.5
+Reported Cases,GROUP,0,0.0
+Reported Cases,CODE,0,0.0
+Reported Cases,NAME,0,0.0
+Reported Cases,YEAR,0,0.0
+Reported Cases,DISEASE,0,0.0
+Reported Cases,DISEASE_DESCRIPTION,0,0.0
+Reported Cases,CASES,19399,22.86
+Vaccine Introduction,ISO_3_CODE,0,0.0
+Vaccine Introduction,COUNTRYNAME,0,0.0
+Vaccine Introduction,WHO_REGION,0,0.0
+Vaccine Introduction,YEAR,0,0.0
+Vaccine Introduction,DESCRIPTION,0,0.0
+Vaccine Introduction,INTRO,0,0.0
+Vaccine Schedule,ISO_3_CODE,0,0.0
+Vaccine Schedule,COUNTRYNAME,0,0.0
+Vaccine Schedule,WHO_REGION,0,0.0
+Vaccine Schedule,YEAR,0,0.0
+Vaccine Schedule,VACCINECODE,0,0.0
+Vaccine Schedule,VACCINE_DESCRIPTION,0,0.0
+Vaccine Schedule,SCHEDULEROUNDS,0,0.0
+Vaccine Schedule,TARGETPOP,8052,100.0
+Vaccine Schedule,TARGETPOP_DESCRIPTION,0,0.0
+Vaccine Schedule,GEOAREA,8052,100.0
+Vaccine Schedule,AGEADMINISTERED,8052,100.0
+Vaccine Schedule,SOURCECOMMENT,2913,36.18

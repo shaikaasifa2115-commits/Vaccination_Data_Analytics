@@ -1,0 +1,6 @@
+Dataset,Original Rows,Cleaned Rows,Duplicates Removed,Missing Cells,Output
+Coverage,399859,399858,0,817119,C:\Users\Aasifa\Downloads\Vaccination_Data_Analytics\data\cleaned\coverage-data_cleaned.csv
+Incidence Rate,84946,84945,0,108306,C:\Users\Aasifa\Downloads\Vaccination_Data_Analytics\data\cleaned\incidence-rate-data_cleaned.csv
+Reported Cases,84870,84869,0,19399,C:\Users\Aasifa\Downloads\Vaccination_Data_Analytics\data\cleaned\reported-cases-data_cleaned.csv
+Vaccine Introduction,138321,138320,0,0,C:\Users\Aasifa\Downloads\Vaccination_Data_Analytics\data\cleaned\vaccine-introduction-data_cleaned.csv
+Vaccine Schedule,8053,8052,0,27069,C:\Users\Aasifa\Downloads\Vaccination_Data_Analytics\data\cleaned\vaccine-schedule-data_cleaned.csv
